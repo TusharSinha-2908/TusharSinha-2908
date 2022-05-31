@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Sinha</h1>
+<h1 align="center">Hey There 👋 ! , Tushar This Side. </h1>
 <h3 align="center">A Self Taught Programmer Who Loves To Work On Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsinha-2908&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsinha-2908" /> </p>
