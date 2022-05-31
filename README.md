@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsinha-2908" alt="tusharsinha-2908" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_he_was_there" target="blank"><img src="https://img.shields.io/twitter/follow/_he_was_there?logo=twitter&style=for-the-badge" alt="_he_was_there" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Firebase & Cross-Platform Application Development**
 
