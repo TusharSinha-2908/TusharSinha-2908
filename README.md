@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Firebase, SQL, Python & Java**
 
-- 📫 How to reach me **Tusharsinha.2908@gmail.com**
+- 📫 How to reach me : **Tusharsinha.2908@gmail.com**
 
 - ⚡ Fun Fact : **'Fun Facts' Are Never Fun**
 
