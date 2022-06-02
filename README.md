@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Tusharsinha.2908@gmail.com**
 
-- ⚡ Fun fact **'Fun Facts' Are Never Fun**
+- ⚡ Fun Fact : **'Fun Facts' Are Never Fun**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
